@@ -1,5 +1,5 @@
 1-
-This project needs an ActiveMQ docker to run:
+This project needs an ActiveMQ docker container to run:
 docker run -it --rm -p 8161:8161 -p 61616:61616 vromero/activemq-artemis
 
 2-
